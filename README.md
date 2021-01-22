@@ -1,4 +1,4 @@
-### Hello there! / こにちわ！ / Olá mundo! 👋
+### Hello there! / こんにちわ！ / Olá mundo! 👋
 
 
 Here are some ideas to get you started:
