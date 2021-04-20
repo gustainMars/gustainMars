@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... gustavotjmarques@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... StackOverFlow today, StackOverFlow tomorrow, StackOverFlow 4ever! - Rock, <strong>Programmer</strong> Chris
+- ⚡ Fun fact: ... StackOverFlow today, StackOverFlow tomorrow, StackOverFlow 4ever! - Rock, <s>Programmer</s> Chris
 -->
