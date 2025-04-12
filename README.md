@@ -3,10 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Software Developer at Integração Sistemas
-- 🌱 I’m currently learning ... C#, Angular and Kotlin
-- 👯 I’m looking to collaborate on ... C#
-- 🤔 I’m looking for help with ... Gain experienced as a Software Developer
+- 🔭 I’m currently working on ... Full Stack .Net Framework Developer
+- 🌱 I’m currently learning ... .NET Core and Vue.js
+- 👯 I’m looking to collaborate on ... .NET Core
+- 🤔 I’m looking for help with ... Be a better developer
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... gustavotjmarques@gmail.com
 - 😄 Pronouns: ... He/Him
