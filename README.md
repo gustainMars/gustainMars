@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Full Stack .Net Framework Developer
+- 🔭 I’m currently working on ... .NET Senior Developer
 - 🌱 I’m currently learning ... .NET Core and Vue.js
 - 👯 I’m looking to collaborate on ... .NET Core
 - 🤔 I’m looking for help with ... Be a better developer
